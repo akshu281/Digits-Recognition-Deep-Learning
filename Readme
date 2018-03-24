@@ -1,0 +1,8 @@
+This code minor enhancements over multiple source code available for Kernel 2.7
+Libraries used here support Python 3.6 
+
+Steps:
+
+1) Download the dataset from the drive provided the txt file
+2) Download the notebook directly and save it locally
+3) Set the local directory path and start running the model
