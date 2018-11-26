@@ -1,1 +1,2 @@
 # Digits_Recognition_Deep_Learning
+MNIST digit recognition
